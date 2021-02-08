@@ -15,6 +15,13 @@ h2 {
 	font-weight: normal;
 }
 
+h3 {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 32px;
+	font-weight: normal;
+	font-style: italic;
+}
+
 a{
 	color: black;
 }
@@ -36,11 +43,6 @@ em{
 	font-style: normal;
 }
 
-.footer{
-	position: absolute;
-	bottom: 0;
-	width: 100%;
-}
 
 .container{
 	width: 60%;
@@ -50,5 +52,8 @@ em{
 .container-home{
 	width: 60%;
 	margin: auto;
+}
 
+.image-process{
+	width: 100%;
 }
