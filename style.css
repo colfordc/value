@@ -1,0 +1,54 @@
+p {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 20px;
+}
+
+h1 {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 48px;
+	font-weight: normal;
+}
+
+h2 {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 42px;
+	font-weight: normal;
+}
+
+a{
+	color: black;
+}
+
+a:hover{
+	color: blue;
+}
+
+li{
+	list-style-type: none;
+	margin: 0;
+	font-size: 20px;
+	line-height: 26px;
+	padding: 0px;
+}
+
+em{
+	color: blue;
+	font-style: normal;
+}
+
+.footer{
+	position: absolute;
+	bottom: 0;
+	width: 100%;
+}
+
+.container{
+	width: 60%;
+	margin: auto;
+}
+
+.container-home{
+	width: 50%;
+	margin: auto;
+
+}
