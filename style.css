@@ -1,6 +1,7 @@
 p {
 	font-family: "Times New Roman", Times, serif;
-	font-size: 20px;
+	font-size: 48px;
+	color: white;
 }
 
 h1 {
@@ -44,6 +45,44 @@ em{
 }
 
 
+.one{
+	width: 100%;
+	height: 100%;
+	padding: 20px;
+	margin-top: 25px;
+	
+	background-image: url(./images/bodega.png);
+	background-size: cover;
+	background-attachment: fixed;
+}
+
+.two{
+	width: 100%;
+	height: 100%;
+	padding: 20px;
+	margin: auto;
+	background-image: url(./images/1.png);
+	background-size: cover;
+	background-attachment: fixed;
+}
+
+.three{
+	width: 100%;
+	height: 100%;
+	padding: 20px;
+	margin: auto;
+	background-image: url(./images/2.png);
+	background-size: cover;
+	background-attachment: fixed;
+}
+
+.content{
+	width: 75%;
+	padding: 40px;
+	margin: 100px auto;
+}
+
+
 .container{
 	width: 60%;
 	margin: auto;
@@ -62,3 +101,5 @@ em{
 	width: 50%;
 	float: right;
 }
+
+
