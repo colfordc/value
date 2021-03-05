@@ -61,7 +61,7 @@ em{
 	height: 100%;
 	padding: 20px;
 	margin: auto;
-	background-image: url(./images/1.png);
+	background-image: url(./images/bodega-bw.png);
 	background-size: cover;
 	background-attachment: fixed;
 }
@@ -71,7 +71,7 @@ em{
 	height: 100%;
 	padding: 20px;
 	margin: auto;
-	background-image: url(./images/2.png);
+	background-image: url(./images/bodega.png);
 	background-size: 100%;
 	background-repeat: no-repeat;
 	background-attachment: fixed;
@@ -107,7 +107,7 @@ em{
 }
 
 .image-small{
-	width: 50%;
+	width: 25%;
 	float: right;
 }
 
