@@ -72,8 +72,17 @@ em{
 	padding: 20px;
 	margin: auto;
 	background-image: url(./images/2.png);
-	background-size: cover;
+	background-size: 100%;
+	background-repeat: no-repeat;
 	background-attachment: fixed;
+}
+
+.four{
+	width: 100%;
+	height: 100%;
+	padding: 20px;
+	margin: auto;
+	
 }
 
 .content{
