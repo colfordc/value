@@ -1,7 +1,5 @@
 p {
 	font-family: "Times New Roman", Times, serif;
-	font-size: 48px;
-	color: white;
 }
 
 h1 {
@@ -44,6 +42,37 @@ em{
 	font-style: normal;
 }
 
+sup{
+	vertical-align: super;
+	font-size: 20px;
+	color: blue;
+}
+
+mark{
+	background-color: blue;
+	color: white;
+}
+
+#home{
+	color: white;
+	font-size: 48px;
+}
+
+#about{
+	color: black;
+	font-size: 34px;
+}
+
+#footnote{
+	font-family: Helvetica, Arial, sans-serif;
+	font-size: 12px;
+}
+
+.footnote{
+	width: 25%;
+	float: right;
+	margin-right: 5%;
+}
 
 .one{
 	width: 100%;
@@ -102,13 +131,21 @@ em{
 	margin: auto;
 }
 
-.image-process{
-	width: 100%;
-}
-
 .image-small{
 	width: 25%;
 	float: right;
 }
+
+.text{
+	width: 50%;
+	margin-left: 10%;
+}
+
+.footnote-image{
+	width: 100%;
+	margin: auto;
+}
+
+
 
 
