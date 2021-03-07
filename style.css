@@ -60,6 +60,7 @@ header{
 #home{
 	color: white;
 	font-size: 48px;
+	background-color: rgba(0, 0, 0, 0.5);
 }
 
 #about{
@@ -70,6 +71,11 @@ header{
 #footnote{
 	font-family: Helvetica, Arial, sans-serif;
 	font-size: 12px;
+}
+
+#image-small{
+	width: 250px;
+	float: right;
 }
 
 .footnote{
@@ -105,28 +111,31 @@ header{
 .one{
 	width: 100%;
 	height: 100%;
-	padding: 20px;	
-	background-image: url(./images/bodega.png);
-	background-size: cover;
+	padding: 200px;
+	margin: auto;
+	background-image: url(./images/Base-image_clippings.gif);
+	background-size: 100%;
+	background-repeat: no-repeat;
 	background-attachment: fixed;
 }
 
 .two{
 	width: 100%;
 	height: 100%;
-	padding: 20px;
+	padding: 200px;
 	margin: auto;
-	background-image: url(./images/bodega-bw.png);
-	background-size: cover;
+	background-image: url(./images/Highlight_social-food-newspaper.gif);
+	background-size: 100%;
+	background-repeat: no-repeat;
 	background-attachment: fixed;
 }
 
 .three{
 	width: 100%;
 	height: 100%;
-	padding: 20px;
+	padding: 200px;
 	margin: auto;
-	background-image: url(./images/bodega.png);
+	background-image: url(./images/Highlight_police.png);
 	background-size: 100%;
 	background-repeat: no-repeat;
 	background-attachment: fixed;
@@ -135,14 +144,28 @@ header{
 .four{
 	width: 100%;
 	height: 100%;
-	padding: 20px;
+	padding: 200px;
 	margin: auto;
-	
+	background-image: url(./images/Highlight_people.png);
+	background-size: 100%;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
 }
 
+.five{
+	width: 100%;
+	height: 100%;
+	padding: 200px;
+	margin: auto;
+	background-image: url(./images/Base-image_bw10.png);
+	background-size: 100%;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+}
+
+
 .content{
-	width: 75%;
-	padding: 40px;
+	width: 50%;
 	margin: 100px auto;
 }
 
@@ -157,10 +180,7 @@ header{
 	margin: auto;
 }
 
-.image-small{
-	width: 25%;
-	float: right;
-}
+
 
 
 
