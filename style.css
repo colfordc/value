@@ -59,8 +59,7 @@ header{
 
 #home{
 	color: white;
-	font-size: 48px;
-	background-color: rgba(0, 0, 0, 0.5);
+	font-size: 34px;
 }
 
 #about{
@@ -79,8 +78,13 @@ header{
 }
 
 .content{
-	width: 50%;
-	margin: auto;
+	width: 25%;
+	height: 100%;
+	display: flex;
+	flex-direction: column;
+	float: right;
+	margin-right: 3%;
+
 }
 
 .surround-content{
@@ -121,8 +125,8 @@ header{
 .one{
 	width: 100%;
 	height: 100%;
-	padding-top: 200px;
-	padding-bottom: 10%;
+	padding-top: 20%;
+	padding-bottom: 80%;
 	margin: auto;
 	background-image: url(./images/Base-image_clippings.gif);
 	background-size: 100%;
@@ -133,8 +137,8 @@ header{
 .two{
 	width: 100%;
 	height: 100%;
-	padding-top: 200px;
-	padding-bottom: 10%;
+	padding-top: 20%;
+	padding-bottom: 80%;
 	margin: auto;
 	background-image: url(./images/Highlight_social-food-newspaper.gif);
 	background-size: 100%;
@@ -145,8 +149,8 @@ header{
 .three{
 	width: 100%;
 	height: 100%;
-	padding-top: 200px;
-	padding-bottom: 10%;
+	padding-top: 20%;
+	padding-bottom: 80%;
 	margin: auto;
 	background-image: url(./images/Highlight_police.png);
 	background-size: 100%;
@@ -157,10 +161,10 @@ header{
 .four{
 	width: 100%;
 	height: 100%;
-	padding-top: 200px;
-	padding-bottom: 10%;
+	padding-top: 20%;
+	padding-bottom: 80%;
 	margin: auto;
-	background-image: url(./images/Highlight_people.png);
+	background-image: url(./images/Highlight_systems-and-social-01.png);
 	background-size: 100%;
 	background-repeat: no-repeat;
 	background-attachment: fixed;
@@ -169,10 +173,34 @@ header{
 .five{
 	width: 100%;
 	height: 100%;
-	padding-top: 200px;
-	padding-bottom: 10%;
+	padding-top: 20%;
+	padding-bottom: 80%;
+	margin: auto;
+	background-image: url(./images/Highlight_people.png);
+	background-size: 100%;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+}
+
+.six{
+	width: 100%;
+	height: 100%;
+	padding-top: 20%;
+	padding-bottom: 80%;
 	margin: auto;
 	background-image: url(./images/Base-image_bw10.png);
+	background-size: 100%;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+}
+
+.seven{
+	width: 100%;
+	height: 100%;
+	padding-top: 20%;
+	padding-bottom: 80%;
+	margin: auto;
+	background-image: url(./images/Base-image.png);
 	background-size: 100%;
 	background-repeat: no-repeat;
 	background-attachment: fixed;
