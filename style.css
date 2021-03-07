@@ -78,6 +78,16 @@ header{
 	float: right;
 }
 
+.content{
+	width: 50%;
+	margin: auto;
+}
+
+.surround-content{
+	width: 85%;
+	margin: auto;
+}
+
 .footnote{
 	width: 25%;
 	float: right;
@@ -111,7 +121,8 @@ header{
 .one{
 	width: 100%;
 	height: 100%;
-	padding: 200px;
+	padding-top: 200px;
+	padding-bottom: 10%;
 	margin: auto;
 	background-image: url(./images/Base-image_clippings.gif);
 	background-size: 100%;
@@ -122,7 +133,8 @@ header{
 .two{
 	width: 100%;
 	height: 100%;
-	padding: 200px;
+	padding-top: 200px;
+	padding-bottom: 10%;
 	margin: auto;
 	background-image: url(./images/Highlight_social-food-newspaper.gif);
 	background-size: 100%;
@@ -133,7 +145,8 @@ header{
 .three{
 	width: 100%;
 	height: 100%;
-	padding: 200px;
+	padding-top: 200px;
+	padding-bottom: 10%;
 	margin: auto;
 	background-image: url(./images/Highlight_police.png);
 	background-size: 100%;
@@ -144,7 +157,8 @@ header{
 .four{
 	width: 100%;
 	height: 100%;
-	padding: 200px;
+	padding-top: 200px;
+	padding-bottom: 10%;
 	margin: auto;
 	background-image: url(./images/Highlight_people.png);
 	background-size: 100%;
@@ -155,20 +169,14 @@ header{
 .five{
 	width: 100%;
 	height: 100%;
-	padding: 200px;
+	padding-top: 200px;
+	padding-bottom: 10%;
 	margin: auto;
 	background-image: url(./images/Base-image_bw10.png);
 	background-size: 100%;
 	background-repeat: no-repeat;
 	background-attachment: fixed;
 }
-
-
-.content{
-	width: 50%;
-	margin: 100px auto;
-}
-
 
 .container{
 	width: 60%;
