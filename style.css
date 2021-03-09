@@ -59,7 +59,8 @@ header{
 
 #home{
 	color: white;
-	font-size: 34px;
+	font-size: 30px;
+	line-height: 38px;
 }
 
 #about{
@@ -72,14 +73,20 @@ header{
 	font-size: 12px;
 }
 
-#image-small{
-	width: 250px;
-	float: right;
+#image-1{
+	width: 175px;
+	margin-left: 25%;
+	margin-top: 25%;
+}
+
+#image-2{
+	width: 200px;
+	margin-left: 50%;
+	margin-top: 5%;
 }
 
 .content{
 	width: 25%;
-	height: 100%;
 	display: flex;
 	flex-direction: column;
 	float: right;
@@ -119,6 +126,11 @@ header{
 	color: blue;
 	text-decoration: none;
 	display: inline-block;
+}
+
+.map{
+	width: 100%;
+	margin: auto;
 }
 
 
@@ -176,7 +188,7 @@ header{
 	padding-top: 20%;
 	padding-bottom: 80%;
 	margin: auto;
-	background-image: url(./images/Highlight_people.png);
+	background-image: url(./images/Highlight_participatory-budget.png);
 	background-size: 100%;
 	background-repeat: no-repeat;
 	background-attachment: fixed;
@@ -186,7 +198,17 @@ header{
 	width: 100%;
 	height: 100%;
 	padding-top: 20%;
-	padding-bottom: 80%;
+	margin: auto;
+	background-image: url(./images/Base-image_bw10.png);
+	background-size: 100%;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+}
+
+.six-2{
+	width: 100%;
+	height: 100%;
+	padding-bottom: 20%;
 	margin: auto;
 	background-image: url(./images/Base-image_bw10.png);
 	background-size: 100%;
@@ -200,7 +222,19 @@ header{
 	padding-top: 20%;
 	padding-bottom: 80%;
 	margin: auto;
-	background-image: url(./images/Base-image.png);
+	background-image: url(./images/final.png); 
+	background-size: 100%;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+}
+
+.eight{
+	width: 100%;
+	height: 100%;
+	padding-top: 20%;
+	padding-bottom: 80%;
+	margin: auto;
+	background-image: url(./images/Base-image_manuals.png); 
 	background-size: 100%;
 	background-repeat: no-repeat;
 	background-attachment: fixed;
