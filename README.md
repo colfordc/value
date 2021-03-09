@@ -1,5 +1,4 @@
-# value
+# Valuing Bodegas
 
-## katie colford audrey tseng fischer
+## Katie Colford / Audrey Tseng Fischer
 
-###hello this is a test
