@@ -86,8 +86,15 @@ mark{
 }
 
 #image-3{
-	width: 300px;
-	margin-left: 30%;
+	width: 400px;
+	margin-left: 20%;
+	margin-top: 5%;
+}
+
+#image-4{
+	width: 500px;
+	float: right;
+	margin-right: 10%;
 	margin-top: 5%;
 }
 
