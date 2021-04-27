@@ -104,7 +104,13 @@ mark{
 	flex-direction: column;
 	float: right;
 	margin-right: 3%;
+}
 
+.content-final{
+	width: 65%;
+	display: flex;
+	flex-direction: column;
+	margin: auto;
 }
 
 .surround-content{
@@ -122,6 +128,11 @@ mark{
 	width: 50%;
 	float: left;
 	margin-left: 10%;
+}
+
+.image{
+	width: 100%;
+	margin: auto;
 }
 
 .footnote-image{
@@ -260,6 +271,66 @@ mark{
 	padding-bottom: 100%;
 	margin: auto;
 	background-image: url(./images/Base-image_manuals.png); 
+	background-size: 100%;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+}
+
+.final-one{
+	width: 100%;
+	height: 100%;
+	padding-top: 20%;
+	padding-bottom: 100%;
+	margin: auto;
+	background-image: url(./images/IMG-7983-rev.jpg); 
+	background-size: 100%;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+}
+
+.final-two{
+	width: 100%;
+	height: 100%;
+	padding-top: 20%;
+	padding-bottom: 100%;
+	margin: auto;
+	background-image: url(./images/IMG-7984-rev.jpg); 
+	background-size: 100%;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+}
+
+.final-three{
+	width: 100%;
+	height: 100%;
+	padding-top: 20%;
+	padding-bottom: 100%;
+	margin: auto;
+	background-image: url(./images/IMG-7985-rev.jpg); 
+	background-size: 100%;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+}
+
+.final-four{
+	width: 100%;
+	height: 100%;
+	padding-top: 20%;
+	padding-bottom: 100%;
+	margin: auto;
+	background-image: url(./images/IMG-7986-rev.jpg); 
+	background-size: 100%;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+}
+
+.final-five{
+	width: 100%;
+	height: 100%;
+	padding-top: 20%;
+	padding-bottom: 5%;
+	margin: auto;
+	background-color: black; 
 	background-size: 100%;
 	background-repeat: no-repeat;
 	background-attachment: fixed;
