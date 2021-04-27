@@ -22,7 +22,7 @@ h3 {
 }
 
 a{
-	color: black;
+	color: white;
 }
 
 a:hover{
@@ -334,6 +334,10 @@ mark{
 	background-size: 100%;
 	background-repeat: no-repeat;
 	background-attachment: fixed;
+}
+
+.final-tempo{
+	background-color: black; 
 }
 
 .container{
