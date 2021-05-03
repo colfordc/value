@@ -76,6 +76,12 @@ mark{
 	font-size: 12px;
 }
 
+#footnote-tempo{
+	font-family: Helvetica, Arial, sans-serif;
+	font-size: 14px;
+	color: white;
+}
+
 #image-1{
 	width: 175px;
 	margin-left: 25%;
