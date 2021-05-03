@@ -29,6 +29,7 @@ a:hover{
 	color: blue;
 }
 
+
 li{
 	list-style-type: none;
 	margin: 0;
@@ -119,15 +120,15 @@ mark{
 }
 
 .footnote{
-	width: 25%;
+	width: 23%;
 	float: right;
 	margin-right: 5%;
 }
 
 .text{
-	width: 50%;
+	width: 53%;
 	float: left;
-	margin-left: 10%;
+	margin-left: 14%;
 }
 
 .image{
@@ -354,7 +355,9 @@ mark{
 	margin: auto;
 }
 
-
+.about{
+	color: black;
+}
 
 
 
