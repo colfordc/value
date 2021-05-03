@@ -147,6 +147,7 @@ mark{
 	width: 100%;
 	position: fixed;
 	padding: 10px;
+	z-index: 1;
 }
 
 .nav a{
@@ -340,8 +341,6 @@ mark{
 }
 
 .final-home{
-	width: 100%;
-	height: 100%;
 	margin: 0;
 	padding: 0;
 }
