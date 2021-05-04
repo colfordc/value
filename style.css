@@ -62,8 +62,14 @@ mark{
 
 #home{
 	color: white;
-	font-size: 30px;
-	line-height: 38px;
+	font-size: 24px;
+	line-height: 28px;
+}
+
+#scene{
+	color: orange; 
+	font-size: 24px;
+	line-height: 28px;
 }
 
 #about{
