@@ -66,6 +66,11 @@ mark{
 	line-height: 28px;
 }
 
+#quote{
+	color: white;
+	font-size: 18px;
+}
+
 #scene{
 	color: orange; 
 	font-size: 24px;
