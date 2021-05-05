@@ -66,6 +66,12 @@ mark{
 	line-height: 28px;
 }
 
+#acknowledgment{
+	color: black;
+	font-size: 24px;
+	line-height: 28px;
+}
+
 #quote{
 	margin-left: 10%;
 	color: white;
